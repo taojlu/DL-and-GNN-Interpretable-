@@ -9,6 +9,7 @@
 
 Title | Date | Links |First Author| Code|
 :---- |-----:|------:|-----------:|:-----:
+A Survey on Explainable Artificial Intelligence (XAI): towards Medical XAI | 2020 | [arXiv](https://arxiv.org/pdf/1907.07374.pdf) | Erico Tjoa | No |
 A Survey on Techniques, Applications and Security of Machine Learning Interpretability | 2019 | [计算机研究与发展](https://nesa.zju.edu.cn/download/%E6%A8%A1%E5%9E%8B%E5%8F%AF%E8%A7%A3%E9%87%8A%E6%80%A7%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E3%80%81%E5%BA%94%E7%94%A8%E5%8F%8A%E5%85%B6%E5%AE%89%E5%85%A8%E6%80%A7%E7%A0%94%E7%A9%B6%E7%BB%BC%E8%BF%B0.pdf) | 纪守领 | No |
 Visual Interpretability for Deep Learning: a Survey | 2018 | [arXiv](https://arxiv.org/pdf/1802.00614.pdf) | Quanshi Zhang | No |
 
