@@ -43,8 +43,8 @@ BayesGrad: Explaining Predictions of Graph Convolutional Networks | 2018 | [arXi
 
 #### Technology Tools
 1、[Captum](https://github.com/pytorch/captum)  
-   &emsp; Captum is a model interpretability and understanding library for PyTorch.
-2、[Convolutional Neural Network Visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)  
-   &emsp; This repository contains a number of convolutional neural network visualization techniques implemented in PyTorch.
+   &emsp; Captum is a model interpretability and understanding library for PyTorch.  
+2、[Convolutional Neural Network Visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)    
+   &emsp; This repository contains a number of convolutional neural network visualization techniques implemented in PyTorch.  
    
    
