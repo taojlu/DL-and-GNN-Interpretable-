@@ -14,6 +14,12 @@ A Survey on Techniques, Applications and Security of Machine Learning Interpreta
 Visual Interpretability for Deep Learning: a Survey | 2018 | [arXiv](https://arxiv.org/pdf/1802.00614.pdf) | Quanshi Zhang | No |
 Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI) | 2018 | [IEEE Access](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8466590) | AMINA ADADI | No |
 
+#### Deep Learning Interpretable Papers
+
+Title | Date | Links |First Author| Code|
+:---- |-----:|------:|-----------:|:-----:
+Local Interpretable Model-Agnostic Explanations for Classification of Lymph Node Metastases | 2019 | [sensors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6651753/) | Iam Palatnik de Sousa | No |
+
 
 #### Graph Neural Network Interpretable Survey
 
