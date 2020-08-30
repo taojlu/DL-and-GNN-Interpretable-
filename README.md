@@ -19,6 +19,7 @@ Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (X
 
 Title | Date | Links |First Author| Code|
 :---- |-----:|------:|-----------:|:-----:
+Explainability Methods for Graph Convolutional Neural Networks | 2019 | [CVPR](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf) | Phillip E.Pope | No |
 Explainability Techniques for Graph Convolutional Networks | 2019 | [arXiv](https://arxiv.org/pdf/1905.13686.pdf)| Federico Baldassarre | [github](https://github.com/baldassarreFe/graph-network-explainability)|
 
 
