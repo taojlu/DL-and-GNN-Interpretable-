@@ -21,5 +21,6 @@ Title | Date | Links |First Author| Code|
 
 Title | Date | Links |First Author| Code|
 :---- |-----:|------:|-----------:|:-----:
+GNNExplainer: Generating Explanations for Graph Neural Networks | 2019 | [NeurIPS](https://arxiv.org/pdf/1903.03894.pdf) | Rex Ying | [github](https://github.com/RexYing/gnn-model-explainer)|  
 Discovering Molecular Functional Groups Using Graph Convolutional Neural Networks | 2019 |[arXiv](https://arxiv.org/pdf/1812.00265.pdf) | Philip E.Pope | No |  
 BayesGrad: Explaining Predictions of Graph Convolutional Networks | 2018 | [arXiv](https://arxiv.org/pdf/1807.01985.pdf) | Hirotaka Akita | [github](https://github.com/pfnet-research/bayesgrad)|  
