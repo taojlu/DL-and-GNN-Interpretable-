@@ -15,6 +15,7 @@ Visual Interpretability for Deep Learning: a Survey | 2018 | [arXiv](https://arx
 
 Title | Date | Links |First Author| Code|
 :---- |-----:|------:|-----------:|:-----:
+Explainability Techniques for Graph Convolutional Networks | 2019 | [arXiv](https://arxiv.org/pdf/1905.13686.pdf)| Federico Baldassarre | [github](https://github.com/baldassarreFe/graph-network-explainability)|
 
 
 #### Graph Neural Network Interpretable Papers
