@@ -24,6 +24,8 @@ Title | Date | Links |First Author| Model |
 :---- |-----:|------:|-----------:|:-----:
 SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation | 2020 | [MICCAI](https://arxiv.org/pdf/2001.07645.pdf) | Jesse Sun | [U-Net](https://github.com/sunjesse/shape-attentive-unet) |   
 Local Interpretable Model-Agnostic Explanations for Classification of Lymph Node Metastases | 2019 | [sensors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6651753/) | Iam Palatnik de Sousa | --- |   
+Uncertainty Modeling and Interpretability In Convolutional Neural Networks for Polyp Segmentation | 2018 | [IEEE International Workshop on Machine Learning For Signal Processing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8516998) | Kristoffer Wickstrøm | No |  
+
 
 
 
