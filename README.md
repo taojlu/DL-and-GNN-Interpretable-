@@ -1,8 +1,5 @@
 # It includes Deep Learning and Graph Neural Network Interpretable papers and codes.
 
-
-### Deep Learning and Graph Neural Network Interpretable
-
 #### Deep Learning Interpretable Survey
 #### Graph Neural Network INterpretable Survey
 #### Deep Learning Interpretable Scholars
