@@ -1,6 +1,4 @@
-# melon-seeds
-It includes Deep Learning and Graph Neural Network Interpretable papers and codes.
-
+# It includes Deep Learning and Graph Neural Network Interpretable papers and codes.
 
 
 ### Deep Learning and Graph Neural Network Interpretable
