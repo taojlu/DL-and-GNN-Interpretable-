@@ -41,10 +41,12 @@ Explainability Techniques for Graph Convolutional Networks | 2019 | [arXiv](http
 
 Title | Date | Links |First Author| Code|
 :---- |-----:|------:|-----------:|:-----:
+Interpretable Neuron Structuring with Graph Spectral Regularization | 2020 | [arXiv](https://arxiv.org/pdf/1810.00424.pdf) | Alexander Tong | [github](https://github.com/KrishnaswamyLab/GraphSpectralRegularization) |    
 XGNN: Towards Model-Level Explanations of Graph Neural Networks | 2020 | [KDD](https://arxiv.org/pdf/2006.02587.pdf) | Hao Yuan | No |  
 Interpretable and Efficient Heterogeneous Graph Convolutional Network | 2020 | [arXiv](https://arxiv.org/pdf/2005.13183.pdf) | Yaming Yang | [Pytorch](https://github.com/kepsail/ie-HGCN/) |  
 Towards Interpretable Sparse Graph Representation Learning with Laplacian Pooling | 2020 | [arXiv](https://arxiv.org/pdf/1905.11577.pdf) | Emmanuel Noutahi | No |
 GNNExplainer: Generating Explanations for Graph Neural Networks | 2019 | [NeurIPS](https://arxiv.org/pdf/1903.03894.pdf) | Rex Ying | [github](https://github.com/RexYing/gnn-model-explainer)|  
+Factor Graph Neural Network | 2019 | [arXiv](https://arxiv.org/pdf/1906.00554.pdf) | Zhen Zhang | [github](https://github.com/BeautyOfWeb/FactorGraphNeuralNet) |  
 Discovering Molecular Functional Groups Using Graph Convolutional Neural Networks | 2019 |[arXiv](https://arxiv.org/pdf/1812.00265.pdf) | Philip E.Pope | No |  
 BayesGrad: Explaining Predictions of Graph Convolutional Networks | 2018 | [arXiv](https://arxiv.org/pdf/1807.01985.pdf) | Hirotaka Akita | [github](https://github.com/pfnet-research/bayesgrad)|  
 
