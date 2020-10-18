@@ -37,7 +37,7 @@ Uncertainty Modeling and Interpretability In Convolutional Neural Networks for P
 Title | Date | Links |First Author| Code|
 :---- |-----:|------:|-----------:|:-----:
 Explainability Methods for Graph Convolutional Neural Networks | 2019 | [CVPR](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf) | Phillip E.Pope | [github](https://github.com/ppope/explain_graphs) |  
-Explainability Techniques for Graph Convolutional Networks | 2019 | [arXiv](https://arxiv.org/pdf/1905.13686.pdf)| Federico Baldassarre | [github](https://github.com/baldassarreFe/graph-network-explainability)|
+Explainability Techniques for Graph Convolutional Networks | 2019 | [ICML](https://arxiv.org/pdf/1905.13686.pdf)| Federico Baldassarre | [github](https://github.com/baldassarreFe/graph-network-explainability)|
 
 
 #### <span id="id_4"> Part Four: Graph Neural Network Interpretable Papers
